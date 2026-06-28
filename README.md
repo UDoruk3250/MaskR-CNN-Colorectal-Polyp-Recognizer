@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ### Usage
 
 ```
-python run.py [PATH_TO_IMAGE] -o [OUTPUT_FILE_NAME]
+python run.py [PATH_TO_IMAGE] [OUTPUT_FILE_NAME]
 ```
 
 Output:
