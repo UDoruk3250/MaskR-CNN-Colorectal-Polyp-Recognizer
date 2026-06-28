@@ -6,14 +6,14 @@ This is a Mask R-CNN model trained to recognize colorectal polyps. The model is 
 
 The installation process is fairly easy. It needs Python >=3.9 to work properly.
 
-```bash  
+```
 pip install -r requirements.txt
 ```
 
 
 ### Usage
 
-```bash  
+```
 python run.py [PATH_TO_IMAGE] -o [OUTPUT_FILE_NAME]
 ```
 
